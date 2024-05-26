@@ -4,4 +4,5 @@ SEPTI AULIA PUTRI
 
 WEBSITE "LUMINEA BEAUTY"
 
-Pada repository ini terdapat penjelasan beberapa tahap design website, termasuk pembuatan wireframe, sitemap, dan hasil design akhir website Luminea Beauty
+Pada repository ini terdapat penjelasan beberapa tahap design website, termasuk pembuatan wireframe, sitemap, dan hasil design akhir website _Luminea Beauty_
+
