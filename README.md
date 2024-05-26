@@ -1,8 +1,9 @@
-SEPTI AULIA PUTRI
+# Interaksi-Manusia-dan-Komputer-2024
 
-2209106049
+NAMA : SEPTI AULIA PUTRI
 
-WEBSITE "LUMINEA BEAUTY"
+NIM : 2209106049
+
+KELAS : INFORMATIKA B 2022
 
 Pada repository ini terdapat penjelasan beberapa tahap design website, termasuk pembuatan wireframe, sitemap, dan hasil design akhir website _Luminea Beauty_
-
